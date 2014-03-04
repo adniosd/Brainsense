@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">cervello senso</string>
+    <string name="action_settings">impostazione</string>
+    
+    <!-- key code page -->
+    <string name="keycodetitle">Codice chiave</string>
+    <string name="keycode">Software Codice chiave :</string>
+	<string name="register">registro</string>
+	<string name="keyCodeExample">* Esempio : XXXXXXXX - XXXX - XXXX - XXXX</string>
+	
+	<!-- User register page -->
+	<string name="userregistertitle">registrazione utente</string>
+	<string name="namehint">Si prega di inserire il tuo nome</string>
+	<string name="emailhint">Ingresso prego il vostro email</string>
+	<string name="userRegister">registro</string>
+	
+	<!-- Package Choice page -->
+	<string name="packagechoicetitle">pacchetto Scelta</string>
+	<string name="download">Scarica</string>
+	<string name="country">paese</string>
+	<string name="chooseCountry">Seleziona un paese</string>
+	<string name="options">opzioni</string>
+	<string name="language">lingua</string>
+	<string name="exit">Exit</string>
+	
+	<!-- Download page -->
+	<string name="description">Descrizione:</string>
+	<string name="downloadPageTitle">Scarica</string>
+	
+	<!-- Choose page -->
+	<string name="chooseTitle">Cambia Seleziona</string>
+	<string name="updatePackge">aggiornamento del pacchetto</string>
+	<string name="updateKeyCode">Aggiornamento del software codice chiave</string>
+	<string name="fixProblem">risolvere un problema</string>
+	<string name="reset">Ripristina predefinite</string>
+	<string name="reseting">Resetta ....</string>
+	
+	<!-- watchdog service -->
+    <string name="isactiveTitle">Vuoi attivare ?</string>
+	<string name="yes">SI</string>
+	<string name="no">NO</string>
+	<string name="watchdogTitle">Vuoi aggiornare il cane da guardia ?</string>
+	<string name="XBMCTitle">Vuoi aggiornare XBMC ?</string>
+	<string name="fullupdate">Aggiornamenti completi disponibili . Volete scaricare e installare ?</string>
+	<string name="updateupdate">Aggiornamenti disponibili. Volete scaricare e installare ?</string>
+	<string name="addonupdate">Addon aggiornamenti disponibili. Volete scaricare e installare ?</string>
+	<string name="updatebtn">Aggiornare</string>
+	<string name="cancelbtn">Cancellare</string>
+    
+    <!-- Toast -->
+    <string name="communication">problemi di comunicazione</string>
+    <string name="noPackage">Nessun pacchetti disponibili</string>
+    <string name="choosePackage">Si prega di scegliere pacchetto</string>
+    <string name="resetFinsh">Ripristino completato con successo</string>
+    <string name="fixFinsh">Problema Fix completato con successo</string>
+    <string name="XBMC">XBMC non esiste</string>
+    <string name="keyCodeInput">Si prega di inserire il vostro codice chiave</string>
+    <string name="keyCodeLength">La lunghezza del codice chiave errato</string>
+    <string name="registerInput">Si prega di inserire il vostro nome ed e-mail</string>
+    <string name="emailFormat">Controlla la tua email</string>
+    <string name="authorized">Utente è autorizzato</string>
+    <string name="notAuthorized">L\'utente non è autorizzato</string>
+    <string name="notMeetReq">Dispositivo non soddisfa i requisiti hardware</string>
+    <string name="noMAC">Ottenere l\'indirizzo MAC non riuscita</string>
+    <string name="deviceIdNotMatch">DeviceId non corrisponde Mac</string>
+    <string name="smallSDCard">SDCard non è sufficiente</string>
+    <string name="noFile">Nessun file</string>
+    <string name="finish">Download e installazione completata con successo</string>
+    <string name="online">Utente offline Non è possibile registrare</string>
+    <string name="deviceAuth">Il dispositivo non è autorizzato</string>
+    <string name="noKeyCode">Il codice chiave software non è stato trovato nel sistema</string>
+    <string name="keyCodeNotMatch">Numero di codice chiave software non corrisponde l\'ID del dispositivo</string>
+    <string name="registerFailed">Registrati fallito</string>
+    <string name="cpu">CPU dispositivo non soddisfa i requisiti minimi</string>
+    <string name="os">L\'applicazione supporta Android versione 4.0 e superiori . Si prega di aggiornare la versione di Android</string>
+    <string name="memory">Non c\'è abbastanza memoria interna del dispositivo . Si prega di eliminare file o disinstallare apk</string>
+    <string name="sdcard">Non c\'è sufficiente memoria sulla scheda SD . Si prega di eliminare file o disinstallare apk</string>
+    <string name="dataInstalling">Installazione ....</string>
+    <string name="updateFull">Tutti i dati esistenti verranno cancellati . Vuoi continuare ?</string>
+    <string name="dataDowning">Aggiornamento ....</string>
+    <string name="updateError">Time out</string>
+    <string name="back">Installazione . non è possibile eseguire</string>
+    
+    <!-- Dialog -->
+    <string name="title">Alert</string>
+    <string name="quit">Sei sicuro di voler uscire ?</string>
+    <string name="positiveYes">SI</string>
+    <string name="negativeNo">No</string>
+    <string name="positiveUpdate">Aggiornare</string>
+    <string name="positiveSubmit">Presentare</string>
+    <string name="positiveInstall">Installare</string>
+    <string name="negativeCancel">Cancellare</string>
+    <string name="keyCodeAuth">Il vostro codice chiave è ancora autorizzata</string>
+    <string name="noEmail">Non vi è alcun indirizzo email nel dispositivo</string>
+    <string name="ok">Bene</string>
+    <string name="chooseEmail">Scegliere</string>
+    <string name="newVersion">Ha nuova versione di aggiornamento ?</string>
+    <string name="downLoadSuc">Successo</string>
+    <string name="serviceType">Il tipo di servizio</string>
+    <string name="got">Ho capito</string>
+    <string name="chooseLanguage">Scegli la lingua</string>
+    <string name="cannotUpdate">Non è possibile aggiornare il codice chiave</string>
+    <string name="XBMCDownload">XBMC download ....</string>
+     
+</resources>

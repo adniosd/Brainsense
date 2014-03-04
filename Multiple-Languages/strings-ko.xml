@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">뇌 감각</string>
+    <string name="action_settings">환경</string>
+    
+    <!-- key code page -->
+    <string name="keycodetitle">키 코드</string>
+    <string name="keycode">소프트웨어 키 코드:</string>
+	<string name="register">레지스터</string>
+	<string name="keyCodeExample">*예:XXXXXXXX-XXXX-XXXX-XXXX</string>
+	
+	<!-- User register page -->
+	<string name="userregistertitle">사용자 등록</string>
+	<string name="namehint">입력 당신의 이름을주십시오</string>
+	<string name="emailhint">입력 귀하의 이메일을주세요</string>
+	<string name="userRegister">레지스터</string>
+	
+	<!-- Package Choice page -->
+	<string name="packagechoicetitle">패키지 선택</string>
+	<string name="download">다운로드</string>
+	<string name="country">국가</string>
+	<string name="chooseCountry">나라를 선택하십시오</string>
+	<string name="options">옵션</string>
+	<string name="language">언어</string>
+	<string name="exit">출구</string>
+	
+	<!-- Download page -->
+	<string name="description">기술:</string>
+	<string name="downloadPageTitle">다운로드</string>
+	
+	<!-- Choose page -->
+	<string name="chooseTitle">변화는 선택</string>
+	<string name="updatePackge">업데이트 패키지</string>
+	<string name="updateKeyCode">업데이트 소프트웨어 키 코드</string>
+	<string name="fixProblem">문제를 해결</string>
+	<string name="reset">기본으로 재설정</string>
+	<string name="reseting">재설정....</string>
+	
+	<!-- watchdog service -->
+    <string name="isactiveTitle">당신은 활성화 할 마십시오?</string>
+	<string name="yes">예</string>
+	<string name="no">아니</string>
+	<string name="watchdogTitle">당신은 감시를 업데이트 하시겠습니까?</string>
+	<string name="XBMCTitle">당신은 XBMC를 업데이트 하시겠습니까?</string>
+	<string name="fullupdate">사용 가능한 전체 업데이트. 다운로드 및 설치 하시겠습니까?</string>
+	<string name="updateupdate">사용 가능한 업데이트. 다운로드 및 설치 하시겠습니까?</string>
+	<string name="addonupdate">애드온을 사용할 업데이트합니다. 다운로드 및 설치 하시겠습니까?</string>
+	<string name="updatebtn">업데이트</string>
+	<string name="cancelbtn">취소</string>
+    
+    <!-- Toast -->
+    <string name="communication">통신 문제</string>
+    <string name="noPackage">사용 가능한 패키지 없습니다</string>
+    <string name="choosePackage">포장을 선택하세요</string>
+    <string name="resetFinsh">리셋이 성공적으로 완료</string>
+    <string name="fixFinsh">수정 문제를 성공적으로 완료</string>
+    <string name="XBMC">XBMC가 존재하지 않습니다</string>
+    <string name="keyCodeInput">을 입력 해주세요 키 코드</string>
+    <string name="keyCodeLength">키 코드의 길이는 잘못</string>
+    <string name="registerInput">입력 귀하의 이름과 이메일을주세요</string>
+    <string name="emailFormat">귀하의 이메일을 확인하시기 바랍니다</string>
+    <string name="authorized">사용자는 권한이</string>
+    <string name="notAuthorized">사용자는 권한이 없습니다</string>
+    <string name="notMeetReq">장치는 하드웨어 요구 사항을 충족하지 못하는</string>
+    <string name="noMAC">MAC 주소를 가져 오지 못했습니다</string>
+    <string name="deviceIdNotMatch">의 DeviceID는 맥에게 일치하지 않습니다</string>
+    <string name="smallSDCard">SDCard에 충분하지 않습니다</string>
+    <string name="noFile">파일 없음</string>
+    <string name="finish">다운로드 및 설치를 성공적으로 완료</string>
+    <string name="online">사용자는 당신이 등록 할 수있는 온라인이다</string>
+    <string name="deviceAuth">장치는 권한이 없습니다</string>
+    <string name="noKeyCode">소프트웨어 키 코드가 시스템에서 발견되지 않았다</string>
+    <string name="keyCodeNotMatch">소프트웨어 키 코드 번호는 장치 ID와 일치하지 않는</string>
+    <string name="registerFailed">등록 실패</string>
+    <string name="cpu">장치의 CPU는 최소 요구 사항을 충족하지 않습니다</string>
+    <string name="os">이 응용 프로그램은 안드로이드 버전 4.0 이상을 지원합니다. 당신의 안드로이드 버전을 업그레이드하십시오</string>
+    <string name="memory">장치에 충분한 내부 메모리가 부족합니다. 파일 또는 제거 APK를 삭제 해주세요</string>
+    <string name="sdcard">충분한 메모리는 SD 카드에 없습니다. 파일 또는 제거 APK를 삭제 해주세요</string>
+    <string name="dataInstalling">설치....</string>
+    <string name="updateFull">기존의 모든 데이터가 삭제됩니다. 만약 당신이 계속 하시겠습니까?</string>
+    <string name="dataDowning">업데이트....</string>
+    <string name="updateError">아웃 시간</string>
+    <string name="back">설치. 당신은 백업 할 수 없습니다</string>
+    
+    <!-- Dialog -->
+    <string name="title">경보</string>
+    <string name="quit">당신은 당신이 종료 하시겠습니까?</string>
+    <string name="positiveYes">예</string>
+    <string name="negativeNo">아니</string>
+    <string name="positiveUpdate">업데이트</string>
+    <string name="positiveSubmit">제출</string>
+    <string name="positiveInstall">설치</string>
+    <string name="negativeCancel">취소</string>
+    <string name="keyCodeAuth">키 코드는 여전히 허가</string>
+    <string name="noEmail">어떤 이메일은 장치가 없다</string>
+    <string name="ok">확인</string>
+    <string name="chooseEmail">선택</string>
+    <string name="newVersion">새로운 버전의 업데이트에게 있습니다?</string>
+    <string name="downLoadSuc">성공</string>
+    <string name="serviceType">서비스의 종류</string>
+    <string name="got">알았어</string>
+    <string name="chooseLanguage">언어를 선택하세요</string>
+    <string name="cannotUpdate">당신은 키 코드를 업데이트 할 수 없습니다</string>
+    <string name="XBMCDownload">XBMC의 다운로드....</string>
+     
+</resources>
