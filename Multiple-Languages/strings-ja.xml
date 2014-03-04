@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">脳センス</string>
+    <string name="action_settings">設定</string>
+    
+    <!-- key code page -->
+    <string name="keycodetitle">キーコード</string>
+    <string name="keycode">ソフトウェアキーコード：</string>
+	<string name="register">登録</string>
+	<string name="keyCodeExample">*例：XXXXXXXX-XXXX-XXXX-XXXX</string>
+	
+	<!-- User register page -->
+	<string name="userregistertitle">ユーザー登録</string>
+	<string name="namehint">入力あなたの名前を喜ばせる</string>
+	<string name="emailhint">入力にあなたのメールをしてください</string>
+	<string name="userRegister">登録</string>
+	
+	<!-- Package Choice page -->
+	<string name="packagechoicetitle">パッケージの選択</string>
+	<string name="download">ダウンロード</string>
+	<string name="country">国</string>
+	<string name="chooseCountry">国を選択してください</string>
+	<string name="options">オプション</string>
+	<string name="language">言語</string>
+	<string name="exit">出口</string>
+	
+	<!-- Download page -->
+	<string name="description">説明：</string>
+	<string name="downloadPageTitle">ダウンロード</string>
+	
+	<!-- Choose page -->
+	<string name="chooseTitle">変更は、選択し</string>
+	<string name="updatePackge">更新パッケージ</string>
+	<string name="updateKeyCode">更新ソフトウェアキーコード</string>
+	<string name="fixProblem">問題を解決する</string>
+	<string name="reset">デフォルトにリセット</string>
+	<string name="reseting">リセット....</string>
+	
+	<!-- watchdog service -->
+    <string name="isactiveTitle">アクティブにしたいのですか？</string>
+	<string name="yes">はい</string>
+	<string name="no">いいえ</string>
+	<string name="watchdogTitle">あなたは、ウォッチドッグを更新しますか？</string>
+	<string name="XBMCTitle">あなたはXBMCを更新しますか？</string>
+	<string name="fullupdate">利用可能な完全なアップデート。あなたがダウンロードしてインストールしますか？</string>
+	<string name="updateupdate">利用可能な更新。あなたがダウンロードしてインストールしますか？</string>
+	<string name="addonupdate">アドオンは、利用可能な更新されます。あなたがダウンロードしてインストールしますか？</string>
+	<string name="updatebtn">アップデート</string>
+	<string name="cancelbtn">キャンセル</string>
+    
+    <!-- Toast -->
+    <string name="communication">コミュニケーションの問題</string>
+    <string name="noPackage">利用可能なパッケージがない</string>
+    <string name="choosePackage">梱包をお選び下さい</string>
+    <string name="resetFinsh">リセットが正常に完了し</string>
+    <string name="fixFinsh">修正問題正常に完了しました</string>
+    <string name="XBMC">XBMCは存在しません</string>
+    <string name="keyCodeInput">を入力してくださいあなたのキーコード</string>
+    <string name="keyCodeLength">キーコードの長さが間違っている</string>
+    <string name="registerInput">入力あなたの名前とメールアドレスを喜ばせる</string>
+    <string name="emailFormat">メールを確認してください</string>
+    <string name="authorized">ユーザーが許可されている</string>
+    <string name="notAuthorized">ユーザーが許可されていません</string>
+    <string name="notMeetReq">デバイスは、ハードウェア要件を満たしていない</string>
+    <string name="noMAC">MACアドレス取得に失敗</string>
+    <string name="deviceIdNotMatch">DeviceIDがマックに一致していません</string>
+    <string name="smallSDCard">SDカードでは十分ではありません</string>
+    <string name="noFile">ファイルいいえ</string>
+    <string name="finish">ダウンロードとインストールが正常に完了し</string>
+    <string name="online">ユーザーは、あなたが登録することはできませんオンラインになっている</string>
+    <string name="deviceAuth">デバイスが許可されていません</string>
+    <string name="noKeyCode">ソフトウェアキーコードがシステムに見つかりませんでした</string>
+    <string name="keyCodeNotMatch">ソフトキーコード番号は、デバイスIDと一致しない</string>
+    <string name="registerFailed">登録に失敗しました</string>
+    <string name="cpu">デバイスのCPUは、最小要件を満たしていない</string>
+    <string name="os">アプリケーションはAndroidバージョン4.0以降をサポートしています。あなたのAndroidのバージョンをアップグレードしてください</string>
+    <string name="memory">お使いのデバイスに十分な内部メモリがありません。ファイルやアンインストールAPKを削除してください</string>
+    <string name="sdcard">メモリ不足のため、あなたのSDカード上にありません。ファイルやアンインストールAPKを削除してください</string>
+    <string name="dataInstalling">インストール....</string>
+    <string name="updateFull">既存のデータはすべて削除されます。続行しますか？</string>
+    <string name="dataDowning">更新....</string>
+    <string name="updateError">タイムアウト</string>
+    <string name="back">インストール。あなたがバックアップすることはできません</string>
+    
+    <!-- Dialog -->
+    <string name="title">警告</string>
+    <string name="quit">本当に終了してもよろしいですか？</string>
+    <string name="positiveYes">はい</string>
+    <string name="negativeNo">いいえ</string>
+    <string name="positiveUpdate">アップデート</string>
+    <string name="positiveSubmit">提出する</string>
+    <string name="positiveInstall">インストール</string>
+    <string name="negativeCancel">キャンセル</string>
+    <string name="keyCodeAuth">あなたのキーコードがまだ承認されている</string>
+    <string name="noEmail">全くメールがお使いのデバイスではありません</string>
+    <string name="ok">良い</string>
+    <string name="chooseEmail">選ぶ</string>
+    <string name="newVersion">新しいバージョンの更新を持っている？</string>
+    <string name="downLoadSuc">成功</string>
+    <string name="serviceType">サービスの種類</string>
+    <string name="got">私はそれを得た</string>
+    <string name="chooseLanguage">言語を選択してください</string>
+    <string name="cannotUpdate">あなたは、キーコードを更新することはできません</string>
+    <string name="XBMCDownload">XBMCのダウンロード....</string>
+     
+</resources>
