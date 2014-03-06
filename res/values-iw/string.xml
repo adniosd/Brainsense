@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Hebrew</string>
+    <string name="action_settings">Hebrew</string>
+    <string name="hello_world">Hebrew</string>
+    <string name="showtxtmessage">Hebrew</string>
+    <string name="btnmessage">Hebrew</string>
+    
+</resources>

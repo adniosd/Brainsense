@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorldForAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="showtxtmessage">This is my first android application!</string>
+    <string name="btnmessage">And this is a clickable button!</string>
+
+</resources>
